@@ -1,2 +1,5 @@
 # Contributing
-## NICAR 2016
+
+  - Topic focus
+  - Be nice 
+  - Language
