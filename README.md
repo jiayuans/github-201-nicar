@@ -1,1 +1,2 @@
-# github-201-nicar
+# GitHub NICAR Workshop
+## GitHub 201 Hands-On
